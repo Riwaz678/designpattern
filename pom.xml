@@ -35,7 +35,8 @@
     </dependencies>
 
     <build>
-        <sourceDirectory>CreationalDesignPattern-main/src</sourceDirectory>
+        <sourceDirectory>CreationalDesignPattern-main/src/main/java</sourceDirectory>
+        <testSourceDirectory>CreationalDesignPattern-main/src/test/java</testSourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
